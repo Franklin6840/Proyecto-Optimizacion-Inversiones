@@ -5,10 +5,10 @@
 
 Este proyecto desarrolla un Producto Mínimo Viable (MVP) basado en un modelo financiero cuantitativo, cuyo objetivo es
 
-✅ Construir un portafolio óptimo de inversión  
-✅ Maximizar el retorno esperado para un nivel dado de riesgo  
-✅ Comparar el desempeño contra un benchmark real (SPY – S&P500)  
-✅ Entregar una solución aplicable a un negocio financiero  
+- Construir un portafolio óptimo de inversión  
+- Maximizar el retorno esperado para un nivel dado de riesgo  
+- Comparar el desempeño contra un benchmark real (SPY – S&P500)  
+- Entregar una solución aplicable a un negocio financiero  
 
 ---
 
@@ -25,10 +25,10 @@ Un modelo matemático por sí solo no genera valor, pero su utilización como he
 
 Este MVP permite entregar:
 
-✅ Pesos óptimos listos para implementar  
-✅ Métricas claras de evaluación  
-✅ Comparación con índice benchmark  
-✅ Entregables exportables para clientes o negocio
+- Pesos óptimos listos para implementar  
+- Métricas claras de evaluación  
+- Comparación con índice benchmark  
+- Entregables exportables para clientes o negocio
 
 ---
 
