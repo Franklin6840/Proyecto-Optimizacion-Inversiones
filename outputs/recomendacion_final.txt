@@ -1,0 +1,22 @@
+ENTREGABLE FINAL – MVP OPTIMIZACIÓN DE PORTAFOLIO
+
+Este modelo genera una recomendación automática de asignación óptima
+para una cartera mensual de inversión.
+
+* Inputs:
+- Acciones seleccionadas (AAPL, MSFT, AMZN, JPM, etc.)
+- Retornos mensuales históricos (Yahoo Finance)
+
+* Proceso:
+- Optimización Media-Varianza (Markowitz)
+- Restricción: pesos suman 100%
+- Benchmark de comparación: SPY (S&P500)
+
+* Output final para negocio:
+1. Pesos óptimos listos para invertir (pesos_optimos.csv)
+2. Métricas de desempeño vs mercado (metricas_portafolio_vs_benchmark.csv)
+
+* Valor para un asesor financiero o empresa:
+- Reduce tiempo en construcción de carteras
+- Mejora diversificación automática
+- Permite entregar portafolios cuantitativos a clientes
