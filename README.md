@@ -85,4 +85,16 @@ Se usa el paquete:
 ---
 
 ## 📁 Estructura del Repositorio
+---
+
+```text
+Proyecto-Optimizacion-Inversiones/
+│── README.md
+│── MVP_portafolio_mensual.R
+│
+└── salidas/
+    │── pesos_optimos.csv
+    │── metricas_portafolio_vs_benchmark.csv
+    │── recomendacion_final.txt
+
 
